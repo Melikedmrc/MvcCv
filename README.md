@@ -1,6 +1,6 @@
 # 🎯 MVC Dynamic CV Website
 
-This project is a **Dynamic CV & Portfolio Website** built using **ASP.NET MVC 5**.  
+This project is a **Dynamic CV & Portfolio Website** built using **ASP.NET MVC **.  
 It allows users to dynamically manage their personal information, experiences, skills, and more through an admin panel.
 
 ---
@@ -17,7 +17,7 @@ It allows users to dynamically manage their personal information, experiences, s
 
 ## 🛠️ Technologies Used
 
-- **Backend:** ASP.NET MVC 5 (C#)  
+- **Backend:** ASP.NET MVC  (C#)  
 - **ORM:** Entity Framework (DB First)  
 - **Database:** Microsoft SQL Server  
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery  
